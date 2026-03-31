@@ -1,0 +1,22 @@
+{
+  "name": "chemical-mahjong",
+  "version": "1.0.0",
+  "description": "化学元素主题的麻将游戏，结合麻将规则与化学知识学习",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": ["麻将", "化学", "游戏", "教育", "mahjong", "chemistry", "game"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Willyco/chemical-mahjong.git"
+  },
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "game.py",
+    "helper.py",
+    "README.md"
+  ],
+  "engines": {
+    "python": ">=3.6"
+  }
+}
